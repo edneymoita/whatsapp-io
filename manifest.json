@@ -1,0 +1,16 @@
+{
+  "vendor": "vtex",
+  "name": "whatsappio",
+  "version": "0.0.0",
+  "title": "WhatsAppIO",
+  "description": "WhatsAppIO",
+  "defaultLocale": "pt-BR",
+  "builders": {
+    "store": "0.x",
+    "react": "3.x"
+  },
+  "dependencies": {
+    "vtex.css-handles": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
